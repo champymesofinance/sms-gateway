@@ -1,0 +1,7 @@
+com\champymesofinance\sms\Main.class
+com\champymesofinance\sms\OrangeAuthManager.class
+com\champymesofinance\sms\ResultatEnvoi.class
+com\champymesofinance\sms\Client.class
+com\champymesofinance\sms\ExcelReader.class
+com\champymesofinance\sms\OrangeSmsService.class
+com\champymesofinance\sms\RapportCsv.class
